@@ -1,0 +1,43 @@
+.header {
+	background-color: lightblue;
+}
+.header img{
+	width: 120px;
+	height: 40px;
+	margin: 1em;
+}
+.header input{
+	position: absolute;
+	top :1em;
+	width: 40%;
+}
+.icons {
+	position: absolute;
+	right: 1em;
+	top: 0;
+}
+.icons li {
+	float: right;
+	margin: 1em;
+}
+nav {
+	margin-left: 10em;
+}
+nav li {
+	display: inline;
+}
+.main {
+	background-color: lightpink;
+}
+.footer {
+	background-color: lightgrey;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.footer ul{
+	margin-left: 10em;
+}
+.footer li{
+	display: inline;
+}
